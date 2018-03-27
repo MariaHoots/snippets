@@ -1,3 +1,3 @@
 # multifeedgrabber
 
-A script I did a while ago to grab RSS feeds (and Twitter), display them chronologically.
+A script I wrote in 2014 to grab RSS feeds (and Twitter), display them chronologically.
